@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "0gjxxh",
+      "content": "Buy milk",
+      "checked": false
+    },
+    {
+      "id": "urumq",
+      "content": "Buy meat",
+      "checked": false
+    },
+    {
+      "id": "moh5i",
+      "content": "Sleep",
+      "checked": false
+    }
+  ]
+}
