@@ -1,6 +1,6 @@
 ## Production Deployment: 
 
-## Todo App:
+## Todo App: 
 
 Todo application using Next.js, Tailwind CSS, and Zustand for state management.
 

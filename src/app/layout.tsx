@@ -16,7 +16,7 @@ const josefinSans = Josefin_Sans({
 export const metadata: Metadata = {
   title: "Todo app",
   description:
-    "A Frontend Mentor challenge, made with Next.js, TypeScript, Tailwind CSS, Zustand",
+    "Todo application using Next.js, Tailwind CSS, and Zustand for state management.",
 };
 
 export default function RootLayout({
@@ -39,6 +39,16 @@ export default function RootLayout({
           >
             <Header />
             {children}
+            <div className="text-light-txt-4 dark:text-light-txt-2 mx-auto mt-9 w-fit text-center text-xs md:text-sm">
+              Task Assessment Submitted by{" "}
+              <a
+                href="https://github.com/Muees99"
+                className="text-dark dark:text-active-blue"
+                target="_blank"
+              >
+                Muees99
+              </a>
+            </div>
           </main>
         </ThemeProvider>
       </body>
