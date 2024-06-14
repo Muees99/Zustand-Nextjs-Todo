@@ -42,5 +42,5 @@ The designs were created to the following widths:
 
 ### Font
 
-- Family: [Josefin Sans](https://fonts.google.com/specimen/Josefin+Sans)
+- Family: [Manrope](https://fonts.google.com/specimen/Manrope)
 - Weights: 400, 700
